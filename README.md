@@ -111,10 +111,10 @@ As we all know that under <b>BCA</b>, technical skills always provide unique gra
 
 <!--footer-->
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
+<img align='right' src="https://gist.githubusercontent.com/theintel/08ef8fb89ca9723215fd7cf555296c98/raw/feef4367c64ef24c8c7bd6eefcd55ceb29901b10/wi.gif" width="180">
 
 ##
-<img src="https://gist.githubusercontent.com/theintel/08ef8fb89ca9723215fd7cf555296c98/raw/feef4367c64ef24c8c7bd6eefcd55ceb29901b10/wi.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+918551018237) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+918551018237) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
 
 <div align="center">
