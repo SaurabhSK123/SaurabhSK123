@@ -31,8 +31,8 @@
 
 ## About Me ✍
  
- I m <b> Saurabh Kharkate </b>, Student of <b> Batchlor of Computer Application - Final Year </b> a passionate self-taught full stack web developer and DevOps Enthusiast from india.
-
+Hello folks!!! I'm <b> Saurabh Kharkate </b>, perseuing <b> Batchlor of Computer Application - Final Year </b> a passionate self-taught DevOps Engineer and full stack Devloper from India. Currently working as the Technical Volunteer in program called ARTH2.0 led by LinuxWorld Infomatics Pvt. Ltd. As " Big Goals can be Achieved by small steps " so for achieving my goals exploring and hustling in the World of IT Technologies , Improving and focusing on Technical as well as Soft Skills for the better use in my future projects.
+Self-motivated fresher looking for an opportunity to work in a challenging organization to utilize my skills and knowledge to work for the growth of the organization.
 
 </div>
 
@@ -42,7 +42,7 @@
 
 <img align='right' src='https://github.com/SaurabhSK123/SaurabhSK123/blob/main/mygif.gif' width='250"'>
 
-As we all know that under <b>BCA</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the Computer Science always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
+As a Student of BCA , content as compare to Engineer is limited , so working hard and explore more deep dive into more tech. Mostly work on projects corresponds to DevOps, Linux, and Cloud Computing. I have some more technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -72,8 +72,8 @@ As we all know that under <b>BCA</b>, technical skills always provide unique gra
 <br/>
 
  <!--My Hobbies-->
- 
- 
+
+Having a hobby is a great thing for each and everyone because it not only entertains you, but also gives you various benefits which can improve the quality of your life. It reduces your mental stress and gives a soothing and relaxing feeling. My Hobbies is Drawing and Skteching cartoon characters and things.. 
 
 ## My Hobbies ✍
 
