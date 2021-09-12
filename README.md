@@ -40,9 +40,11 @@ Self-motivated fresher looking for an opportunity to work in a challenging organ
 
 ## Technical Skills 🛠 
 
-<img align='right' src='https://github.com/SaurabhSK123/SaurabhSK123/blob/main/mygif.gif' width='250"'>
+<img align='left' src='https://github.com/SaurabhSK123/SaurabhSK123/blob/main/mygif.gif' width='250"'>
 
 As a Student of BCA , content as compare to Engineer is limited , so working hard and explore more deep dive into more tech. Mostly work on projects corresponds to DevOps, Linux, and Cloud Computing. I have some more technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
+<br />
+<br/>
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -72,12 +74,11 @@ As a Student of BCA , content as compare to Engineer is limited , so working har
 <br/>
 
  <!--My Hobbies-->
-
-Having a hobby is a great thing for each and everyone because it not only entertains you, but also gives you various benefits which can improve the quality of your life. It reduces your mental stress and gives a soothing and relaxing feeling. My Hobbies is Drawing and Skteching cartoon characters and things.. 
-
 ## My Hobbies ✍
+<img align='right' src='https://github.com/SaurabhSK123/SaurabhSK123/blob/main/Hobbies.gif' width='180"'>
+Having a hobby is a great thing for each and everyone because it not only entertains you, but also gives you various benefits which can improve the quality of your life. It reduces your mental stress and gives a soothing and relaxing feeling. My Hobbies is Drawing and Skteching cartoon characters and things..
 
-<img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+
 
 
 
