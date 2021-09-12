@@ -1,6 +1,9 @@
 ## Hi !!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Saurabh 👨‍🎓
 
 <!--Header-->
+<p align="left">
+  <img src="https://c.tenor.com/s6eHxBGHvlIAAAAM/animation-cartoons.gif" width="220" height="157" />
+</p>
 
 
 ## Connect Me At Below
@@ -109,6 +112,44 @@ Having a hobby is a great thing for each and everyone because it not only entert
 [![GitHub Game of Life](https://github4life.herokuapp.com/SaurabhSK123.gif?z=6)](https://github4life.herokuapp.com/SaurabhSK123)
 
 ##
+## Updates 🤓
+<b>
+<table><tr><td valign="top" width="33%">
+
+### [DEVOPS]
+<!-- recent_releases starts -->
+
+[Congifure-K8S-Cluster-and--Deploy-WordPress-on-AWS-Cloud-using-Ansible](https://github.com/SaurabhSK123/Congifure-K8S-Cluster-and--Deploy-WordPress-on-AWS-Cloud-using-Ansible.git)
+
+[Configuring-K8S-cluster-on-AWS-using-Ansible](https://github.com/SaurabhSK123/Configuring-K8S-cluster-on-AWS-using-Ansible.git)
+
+[DEPLOYING-WORDPRESS-AND-MYSQL-USING-HELM-CHART-](https://github.com/SaurabhSK123/DEPLOYING-WORDPRESS-AND-MYSQL-USING-HELM-CHART-.git)
+
+[Configuring-Apache-web-Server-and-Haproxy-using-the-Ansible-Roles-](https://github.com/SaurabhSK123/Configuring-Apache-web-Server-and-Haproxy-using-the-Ansible-Roles-.git)
+
+[Docker-and--K8S-WebUI](https://github.com/SaurabhSK123/Docker-and--K8S-WebUI.git)
+
+[LAUNCHING EC2 INSTANCE AND CONFIGURING WEBSERVER IN MANAGED NODE BY DYNAMIC INVENTORY USING ANSIBLE ON AWS](https://github.com/SaurabhSK123/Arth-Task12.2_Dynamic_inventory.git)
+
+</td><td valign="top" width="25%"> 
+ 
+### [BigData]
+<!-- recent_releases starts -->
+
+</td><td valign="top" width="30%"> 
+
+### [Machine Learning]
+<!-- blog starts -->
+
+
+</td><td valign="top" width="50%">
+
+### [Cloud]
+<!-- tils starts -->
+
+
+</td></tr></table> </b>
+
 
 <!--footer-->
 
