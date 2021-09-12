@@ -40,7 +40,7 @@ Self-motivated fresher looking for an opportunity to work in a challenging organ
 </div>
 
 <!--technical skill-->
-
+<br/>
 ## Technical Skills 🛠 
 
 <img align='left' src='https://github.com/SaurabhSK123/SaurabhSK123/blob/main/mygif.gif' width='250"'>
@@ -73,26 +73,16 @@ As a Student of BCA , content as compare to Engineer is limited , so working har
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 
 <br/>
-<br/>
-<br/>
 
  <!--My Hobbies-->
 ## My Hobbies ✍
 <img align='right' src='https://github.com/SaurabhSK123/SaurabhSK123/blob/main/Hobbies.gif' width='180"'>
 Having a hobby is a great thing for each and everyone because it not only entertains you, but also gives you various benefits which can improve the quality of your life. It reduces your mental stress and gives a soothing and relaxing feeling. My Hobbies is Drawing and Skteching cartoon characters and things..
 
-
-
-
-
 ##
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-
 <!--Github Progess bar-->
 
 ## Quick Overview 📝
