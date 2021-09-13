@@ -98,7 +98,7 @@ Having a hobby is a great thing for each and everyone because it not only entert
 
 <b>My GitHub contributions as a Game of Life</b>
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/SaurabhSK123.gif?z=6)](https://github4life.herokuapp.com/SaurabhSK123)
+[![GitHub Game](https://github4life.herokuapp.com/SaurabhSK123.gif?z=6)](https://github4life.herokuapp.com/SaurabhSK123)
 
 ##
 ## Updates 🤓
