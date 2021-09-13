@@ -108,33 +108,50 @@ Having a hobby is a great thing for each and everyone because it not only entert
 ### [DEVOPS]
 <!-- recent_releases starts -->
 
-[Congifure-K8S-Cluster-and--Deploy-WordPress-on-AWS-Cloud-using-Ansible](https://github.com/SaurabhSK123/Congifure-K8S-Cluster-and--Deploy-WordPress-on-AWS-Cloud-using-Ansible.git)
+[Congifure-K8S-Cluster-and--Deploy-WordPress-on-AWS-Cloud-using-Ansible](https://www.linkedin.com/posts/saurabh-kharkate_automating-kubernetes-cluster-and-configuring-activity-6797458295633281024-cDT1)
 
-[Configuring-K8S-cluster-on-AWS-using-Ansible](https://github.com/SaurabhSK123/Configuring-K8S-cluster-on-AWS-using-Ansible.git)
-
-[DEPLOYING-WORDPRESS-AND-MYSQL-USING-HELM-CHART-](https://github.com/SaurabhSK123/DEPLOYING-WORDPRESS-AND-MYSQL-USING-HELM-CHART-.git)
+[DEPLOYING-WORDPRESS-AND-MYSQL-USING-HELM-CHART-](https://www.linkedin.com/posts/saurabh-kharkate_vimaldaga-righteducation-educationredefine-activity-6797474729428041729-UQKG)
+  
+[Configuring Apache Web Server on Docker Container](https://saurabhkharkate05.medium.com/configuring-apache-web-server-on-docker-container-6fd01b12e56a)
 
 [Configuring-Apache-web-Server-and-Haproxy-using-the-Ansible-Roles-](https://github.com/SaurabhSK123/Configuring-Apache-web-Server-and-Haproxy-using-the-Ansible-Roles-.git)
 
-[Docker-and--K8S-WebUI](https://github.com/SaurabhSK123/Docker-and--K8S-WebUI.git)
+[Docker-and--K8S-WebUI](https://www.linkedin.com/posts/saurabh-kharkate_worldrecordholder-training-internship-activity-6816313251706503168--OrC)
 
 [LAUNCHING EC2 INSTANCE AND CONFIGURING WEBSERVER IN MANAGED NODE BY DYNAMIC INVENTORY USING ANSIBLE ON AWS](https://github.com/SaurabhSK123/Arth-Task12.2_Dynamic_inventory.git)
+  
+[Docker Mobile App using Flutter](https://www.linkedin.com/posts/saurabh-kharkate_task11-worldrecordholder-training-activity-6836398819261980672-wdh6)
 
 </td><td valign="top" width="25%"> 
  
 ### [BigData]
 <!-- recent_releases starts -->
+[Integrating LVM with Hadoop and providing Elasticity to DataNode Storage](https://saurabhkharkate05.medium.com/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-49fe38ffdeb2)
+  
+[Integrating and Configuring Hadoop Cluster and Start services using Ansible Playbook](https://saurabhkharkate05.medium.com/integrating-and-configuring-hadoop-cluster-and-start-services-using-ansible-playbook-9dc2f2dc91ea)
+
 
 </td><td valign="top" width="30%"> 
 
 ### [Machine Learning]
 <!-- blog starts -->
+ [RTO-API-WEB-APP Using CNN](https://github.com/SaurabhSK123/RTO-API-WEB-APP)
+  
+ [TraninigModel-Inside-Docker-Container](https://github.com/SaurabhSK123/TraninigModel-Inside-Docker-Container)
 
 
 </td><td valign="top" width="50%">
 
 ### [Cloud]
 <!-- tils starts -->
+
+[Create High Availability Architecture with AWS CLI](https://saurabhkharkate05.medium.com/create-high-availability-architecture-with-aws-cli-37f270a3b593)
+
+[Configuration of WordPress on Amazon RDS](https://www.linkedin.com/posts/saurabh-kharkate_vimaldaga-righteducation-rightmentor-activity-6789141372323553281-cUFl)
+  
+[Provisioning EC2 instance on AWS cloud and configuring Haproxy using Ansible Automation](https://saurabhkharkate05.medium.com/provisioning-ec2-instance-on-aws-cloud-and-configuring-haproxy-using-ansible-automation-104f35320c8b)
+  
+[Configuring-K8S-cluster-on-AWS-using-Ansible](https://saurabhkharkate05.medium.com/ansible-role-to-automate-kubernetes-multi-node-cluster-over-aws-cloud-d9bab458a578)
 
 
 </td></tr></table> </b>
